@@ -33,7 +33,7 @@ Build Details for my Subaru WRX (VA)
 ## Fluids
     Engine: 5W30 Motul X-Clean EFE Synthetic Oil
     Transmission: Subaru OEM
-    Differential: Subary OEM
+    Differential: Subaru OEM
     Power Steering: Subaru OEM
     Brakes: Motul RBF 600
     Clutch: Motul RBF 600
