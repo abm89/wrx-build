@@ -16,7 +16,7 @@ Build Details for my Subaru WRX (VA)
     Stoptech Sport brake pads
     Advan RGIII Black Gunmetallic & Ring 18x9.5 +35
     Michelin Pilot Sport All Season 4 245/40R18
-    
+    Corner Balanced and Aligned by Winding Road Racing
 
 ## Exterior/Aero
     OLM S208 Style Front Chin Spoiler
