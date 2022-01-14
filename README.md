@@ -26,6 +26,7 @@ Build Details for my Subaru WRX (VA)
     OLM High Point Duckbill Spoiler (Paint-Matched)
     SubiSpeed S4 Style Front Foglight Bezels
     SubiSpeed Evolution Style Tail Lights (Clear Lens, Red Housing)
+    Cobb Redline Engine Cover
 
 ## Interior
     Seicane Head Unit
