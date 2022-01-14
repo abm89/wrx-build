@@ -8,23 +8,24 @@ Build Details for my Subaru WRX (VA)
     Perrin Shifter Stop Kit
 
 ## Suspension/Chassis
-    Meister R Zeta CRD Coilovers (in progress)
-    Perrin 22mm Rear Anti-Roll Bar (in progress)
-    Perrin Polyurethane Rear End Links (in progress)
-    Perrin Strut Brace (in progress)
-    Perrin Pitch Stop Mount (in progress)
+    Meister R Zeta CRD Coilovers
+    Perrin 22mm Rear Anti-Roll Bar
+    Perrin Polyurethane Rear End Links
+    Perrin Strut Brace
+    Perrin Pitch Stop Mount
     Stoptech Sport brake pads
-    Advan RGIII Black Gunmetallic & Ring 18x9.5 +35 (in progress)
-    Continental Extreme Contact Sport 245/40R18
+    Advan RGIII Black Gunmetallic & Ring 18x9.5 +35
+    Michelin Pilot Sport All Season 4 245/40R18
     
 
 ## Exterior/Aero
     OLM S208 Style Front Chin Spoiler
     OLM S207 Style Side and Rear Skirts
-    Verus Engineering Rear Diffuser (in progress)
-    Verus Engineering Rear Control Arm Covers (in progress)
+    Verus Engineering Rear Diffuser
+    Verus Engineering Rear Control Arm Covers
     OLM High Point Duckbill Spoiler (Paint-Matched)
     SubiSpeed S4 Style Front Foglight Bezels
+    SubiSpeed Evolution Style Tail Lights (Clear Lens, Red Housing)
 
 ## Interior
     Seicane Head Unit
