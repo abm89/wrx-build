@@ -2,10 +2,11 @@
 Build Details for my Subaru WRX (VA)
 
 ## Powertrain
-    Invidia R400 Gemini Cat-Back Exhaust
+    Invidia R400 Gemini Cat-Back Exhaust (Stainless)
     Cobb Access Port with MAPerformance Stage 1 Tune
     Perrin Short Shift Kit
     Perrin Shifter Stop Kit
+    Cusco Polyurethane Exhaust Bushings
 
 ## Suspension/Chassis
     Meister R Zeta CRD Coilovers
