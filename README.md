@@ -30,6 +30,7 @@ Build Details for my Subaru WRX (VA)
 ## Interior
     Seicane Head Unit
     Viofo A129 Duo Dash Cam with CPL Filters
+    Perrin Shift Knob
     
 ## Fluids
     Engine: 5W30 Motul X-Clean EFE Synthetic Oil
