@@ -4,6 +4,7 @@ Build Details for my Subaru WRX (VA)
 ## Powertrain
     Tomei Expreme Ti Full Titainium Cat-Back Exhaust
     Cobb Access Port with MAPerformance Stage 1 Tune
+    Perrin Top Mount Intercooler (Silver)
     Perrin Short Shift Kit
     Perrin Shifter Stop Kit
     Cusco Polyurethane Exhaust Bushings
@@ -12,7 +13,7 @@ Build Details for my Subaru WRX (VA)
     Meister R Zeta CRD Coilovers
     Perrin 22mm Rear Anti-Roll Bar
     Perrin Polyurethane Rear End Links
-    Perrin Strut Brace
+    Perrin Strut Brace (Currently Uninstalled)
     Perrin Pitch Stop Mount
     Stoptech Sport brake pads
     Advan RGIII Black Gunmetallic & Ring 18x9.5 +35
