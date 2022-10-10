@@ -26,7 +26,6 @@ Build Details for my Subaru WRX (VA)
     Verus Engineering Rear Diffuser
     Verus Engineering Rear Control Arm Covers
     OLM High Point Duckbill Spoiler (Paint-Matched)
-    SubiSpeed S4 Style Front Foglight Bezels
     SubiSpeed Evolution Style Tail Lights (Clear Lens, Red Housing)
     OLM OG Plus Rear Fog Light (Red Lens)
     Cobb Redline Carbon Engine Cover
