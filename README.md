@@ -39,7 +39,7 @@ Build Details for my Subaru WRX (VA)
     OEM Kicker Speaker Upgrade with Subwoofer
     
 ## Fluids
-    Engine: 5W30 Motul X-Clean EFE Synthetic Oil
+    Engine: 5W30 ENEOS Full Synthetic Oil
     Transmission: Subaru OEM
     Differential: Subaru OEM
     Power Steering: Subaru OEM
