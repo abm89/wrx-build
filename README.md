@@ -12,7 +12,7 @@ Build Details for my Subaru WRX (VA)
 ## Suspension/Chassis
     Meister R Zeta CRD Coilovers
     Perrin 22mm Rear Anti-Roll Bar
-    Perrin Polyurethane Rear End Links
+    SPL Rear End Links
     Perrin Strut Brace (Currently Uninstalled)
     Perrin Pitch Stop Mount
     Stoptech Sport brake pads
